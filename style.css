@@ -346,3 +346,46 @@ a {
   text-align: center;
   margin-top: 6%;
 }
+
+
+.row1 {
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin-top: 3%;
+}
+.profile {
+  width: 20%;
+  box-shadow: 12px 12px 30px 1px rgba(0, 0, 255, .2);
+  border-radius: 20px;
+  display: inline-block;
+  margin-top: 2%;
+  padding-bottom: 2%;
+  background-color: white;
+}
+.profileimage {
+  width: 100%;
+}
+.row2 {
+  text-align: center;
+  display: block;
+  width: 100%
+}
+.row3 {
+  text-align: center;
+  display: block;
+  width: 100%
+}
+.row4 {
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin-bottom: 5%;
+}
+.profilebio {
+  font-size: 80%;
+  padding-bottom: 2%;
+}
+.profiletitle {
+  font-size: 60%;
+}
