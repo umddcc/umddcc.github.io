@@ -58,6 +58,12 @@ a {
   padding-left: 2%;
   width: 100%;
   background-color: white;
+  border-style: solid;
+  border-color: #E9E9E9;
+  border-width: thin;
+  border-left: none;
+  border-right: none;
+  border-top: none;
 }
 .dropdown {
   margin-left: 1%;
@@ -400,6 +406,7 @@ a {
   margin-top: 5%;
   padding: 2%;
   padding-bottom: 9%;
+  margin-bottom: 5%;
 
 }
 .thumbnailone {
@@ -422,4 +429,76 @@ a {
   color: white;
   text-align: center;
   border-radius: 20px;
+}
+
+.ygallery {
+  margin-left: 6%;
+  margin-top: 5%;
+}
+.younga {
+  text-align: center;
+  margin-bottom: 160%;
+  margin-top: 5%;
+}
+div.youngagallery {
+  margin: 5px;
+  float: left;
+  width: 30%;
+}
+.youngaline {
+  border: none;
+  padding: .1%;
+  background-color: black;
+  width: 9%;
+  display: block;
+}
+div.youngagallery img {
+  width: 100%;
+  height: auto;
+}
+
+
+.project2 {
+  text-align: center;
+  padding-bottom: 5%;
+}
+.pimage {
+  width: 40%;
+  display: inline-block;
+  float:right;
+  margin-right: 5%;
+  margin-top: -30%;
+}
+.one {
+  text-align: left;
+  width: 100%;
+  margin-top: 3%;
+}
+.para1 {
+  color: black;
+  font-size: 120%;
+  width: 50%;
+}
+.projecTitle {
+  background-color: none;
+  margin-top: 3%;
+}
+.two {
+  margin-top: 5%;
+  text-align: center;
+  font-size: 120%;
+}
+.button {
+  background-color: #FFB94D;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: white;
+  border-radius: 20px;
+  font-size: 150%;
+}
+.para2 {
+  margin-bottom: 5%;
+  text-align: left;
 }
