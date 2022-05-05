@@ -463,7 +463,7 @@ div.youngagallery img {
   padding-bottom: 5%;
 }
 .pimage {
-  width: 40%;
+  width: 35%;
   display: inline-block;
   float:right;
   margin-right: 5%;
@@ -478,6 +478,7 @@ div.youngagallery img {
   color: black;
   font-size: 120%;
   width: 50%;
+  margin-left: 3%;
 }
 .projecTitle {
   background-color: none;
@@ -501,4 +502,5 @@ div.youngagallery img {
 .para2 {
   margin-bottom: 5%;
   text-align: left;
+  margin-left: 3%;
 }
