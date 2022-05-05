@@ -389,3 +389,37 @@ a {
 .profiletitle {
   font-size: 60%;
 }
+
+
+.creative {
+  width: 70%;
+  border-style: solid;
+  border-color: #E9E9E9;
+  border-width: thin;
+  margin: auto;
+  margin-top: 5%;
+  padding: 2%;
+  padding-bottom: 9%;
+
+}
+.thumbnailone {
+  width: 30%;
+  display: inline-block;
+  float:left;
+}
+.creativewords {
+  display: inline-block;
+  margin-left: 2%;
+  margin-top: 5%;
+}
+.learnmore{
+  display: block;
+  padding-left: .1%;
+  padding-right: .1%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+}
